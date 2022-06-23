@@ -1,0 +1,12 @@
+#ytcardsext_cards-yt-btn {
+    opacity: .9;
+}
+#ytcardsext_cards-yt-btn:hover {
+    opacity: 1;
+}
+#ytcardsext_cards-yt-btn.disabled {
+    opacity: .7;
+}
+#ytcardsext_cards-yt-btn.disabled:hover {
+    opacity: .8;
+}

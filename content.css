@@ -5,8 +5,8 @@
     opacity: 1;
 }
 #ytcardsext_cards-yt-btn.disabled {
-    opacity: .7;
+    opacity: .65;
 }
 #ytcardsext_cards-yt-btn.disabled:hover {
-    opacity: .8;
+    opacity: .7;
 }

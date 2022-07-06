@@ -2,9 +2,15 @@
     "name": "YouTube End Cards Toggle",
     "description": "Adds a button to the YouTube player that toggles on & off the End Cards",
     "author": "Thomas Bland",
-    "version": "2.0",
+    "version": "2.1",
     "manifest_version": 3,
     "permissions": [ "tabs", "scripting", "storage" ],
+    "icons": {
+        "16": "icons/icon@16.png",
+        "32": "icons/icon@32.png",
+        "48": "icons/icon@48.png",
+        "128": "icons/icon@128.png"
+    },
 
     "host_permissions": ["https://*.youtube.com/*"],
 
